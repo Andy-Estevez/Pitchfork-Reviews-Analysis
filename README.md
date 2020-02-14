@@ -13,5 +13,8 @@
 Representations of how many authors have garnered more than 100 reviews for Pitchfork up to 2017
 ![](images/authors_reviews.png)
 
+Distribution of reviews for genres for the total data, top 52, and remaining authors
+![](images/differences_of_genre_distribution_for_reviews.png)
 
-** Still a work in progress **
+
+** Work in progress **
